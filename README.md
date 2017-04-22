@@ -1,0 +1,1 @@
+# angularjs-min-boilerplate
